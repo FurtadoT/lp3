@@ -1,3 +1,5 @@
+package onlypackage;
+
 public final class Ingredientes {
   private String nome;
   private double valor;

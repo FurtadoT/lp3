@@ -1,11 +1,9 @@
+package onlypackage;
 
 import java.util.*;
 
 public final class Pizzas extends Produtos {
   private final List<Ingredientes> ingredientes = new ArrayList<>();
-  
-  public Pizzas(){
-  }
   
   public Pizzas(String nome, int id){
     this.setNome(nome);

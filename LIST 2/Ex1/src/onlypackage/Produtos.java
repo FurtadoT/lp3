@@ -1,3 +1,5 @@
+package onlypackage;
+
 public abstract class Produtos {
   protected int id;
   protected String nome;

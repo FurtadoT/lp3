@@ -1,3 +1,5 @@
+package onlypackage;
+
 public final class Clientes {
   private String nome;
   private String cpf;
